@@ -22,7 +22,7 @@ a tragicomedy told through existential error messages and debugging, misplaced s
 
 hey, i'm **z** —  
 
-20 · cat-coded · pink panther energy · philosophical chaos
+21 · cat-coded · pink panther energy · philosophical chaos
 
 - a **poetic programmer** with a flair for cinematic melancholy  
 - the human version of a curious cat wandering through code and chaos  
