@@ -1,7 +1,7 @@
-<img width="1280" height="640" alt="MYBANNERYAY" src="https://github.com/user-attachments/assets/ef763747-2e47-48cf-9e4e-914a1ff8ce24" />
+<img width="1280" height="640" alt="SLOWSYNCEDBANNER" src="https://github.com/user-attachments/assets/cbed05ff-59d6-4800-a953-7e124a6488ba" />
 
 
-# ✿ certifiedcatluvr      
+# ✿ SLOWSYNCED      
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -76,7 +76,7 @@ i believe in the art of imperfection — the frame left unfocused, the dream hal
 ## Reach Out
 
 if you found this place by fate, open an issue with **"hey there!"**  
-or simply add me on discord **@certifiedcatluvr**
+or simply add me on discord **@slowsynced**
 
 
 ## Current Status
