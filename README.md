@@ -73,12 +73,6 @@ every commit, a cut.
 i believe in the art of imperfection — the frame left unfocused, the dream half-rendered. 
 
 
-## Reach Out
-
-if you found this place by fate, open an issue with **"hey there!"**  
-or simply add me on discord **@slowsynced**
-
-
 ## Current Status
 
 ```python
