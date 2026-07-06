@@ -5,18 +5,14 @@
 
 **i create beautiful worlds that feel like memories you never had**
 
-> a quiet archive of digital dreams, broken syntax, and beautiful accidents —  
-> where pixels dream, logic hums like film static, and every line of code carries a frame of feeling.  
-> lavender echoes hum through the code, and cats guard the source files.
+> a quiet archive of digital dreams, broken syntax, and beautiful accidents where cats guard the source files.
 
 
 ## Upcoming Series
 ### _How to Not Sob When Your Code Doesn't Work_  
 a tragicomedy told through existential error messages and debugging, misplaced semicolons, and hope reborn through `console.log()`
 
-**Featuring:**  
-- misplaced parentheses 
-- the small spark of hope when something finally compiles  
+**Featuring:** the small spark of hope when something finally compiles  
 
 *episode 1 drops when my brain stops melting*
 
@@ -53,12 +49,6 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 - **experimental projects** stitched together with intuition and insomnia  
 - **fragments of poetry, film, and code** in perpetual conversation  
 - **half-working things** i'm emotionally attached to  
-
-you *may* receive: 
-- a cat pun 
-- a mystical snippet of code 
-- a tiny tulip 
-- or a lavender-scented haiku
 
 *no promises. this realm has its own mood.*
 
