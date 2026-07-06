@@ -27,7 +27,7 @@ hey, i'm **z** —
 - the human version of a curious cat wandering through code and chaos  
 - a believer that even bugs can be beautiful if the lighting's right  
 
-i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are not mistakes — they're **unrealized stories** waiting for direction. 
+i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are not mistakes, they're **unrealized stories** waiting for direction. 
 
 
 ## Skills
@@ -55,12 +55,12 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 
 ## Philosophy  
 
-here, code is not merely written — it's **directed**.  
+here, code is not merely written, it's **directed**.  
 
 every repo, a scene.   
 every commit, a cut.  
 
-i believe in the art of imperfection — the frame left unfocused, the dream half-rendered. 
+i believe in the art of imperfection, the frame left unfocused, the dream half-rendered. 
 
 
 ## Current Status
@@ -75,7 +75,3 @@ currently_executing = glam_up(life)
 ```
 
 *work in progress. always.*
-
-
-> *"this isn't a portfolio. it's a projection."*  
-> — **z**
