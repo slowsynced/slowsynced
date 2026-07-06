@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="SLOWSYNCEDBANNER" src="https://github.com/user-attachments/assets/cbed05ff-59d6-4800-a953-7e124a6488ba" />
+<img width="1280" height="640" alt="SLOWSYNCED-banner" src="https://github.com/user-attachments/assets/e7709ddb-0f50-4a1d-a03a-cd97efba1349" />
 
 
 # ✿ SLOWSYNCED      
