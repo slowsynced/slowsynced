@@ -23,7 +23,7 @@ hey, i'm **z** —
 
 21 · cat-coded · pink panther energy · philosophical chaos
 
-- a **poetic programmer** with a flair for cinematic melancholy  
+- a seriously non-serious poetic programmer  
 - the human version of a curious cat wandering through code and chaos  
 - a believer that even bugs can be beautiful if the lighting's right  
 
